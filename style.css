@@ -1,7 +1,14 @@
-
+body {
+    background-image: url(img/wallpaper.jpg);
+    background-size: cover;
+}
 
 h1 {
-    color: palevioletred;
+    color: darkviolet;
     text-align: center;
     font-size: 60px;
+}
+
+#container {
+    text-align: center;  
 }
